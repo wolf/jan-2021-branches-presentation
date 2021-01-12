@@ -14,6 +14,12 @@
         * Working on someone else's branch
         * Force-pushing rebased branches
     * Quick little branches
+
+    * Terminology
+        * HEAD is where you're at right now
+        * 'the tip' of the branch, and the branch name itself both refer to the newest commit on the branch
+        * Usually `HEAD` and the tip of the branch refer to the same commit
+    * The difference between a branch and a tag
 * Why use branches?
 * What are the pros and cons?
 * When not to use a branch
