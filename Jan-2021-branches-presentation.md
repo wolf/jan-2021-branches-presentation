@@ -1,7 +1,14 @@
 ## Points to Cover
 
+* Separation of concerns: good in your code, good in your coding
+* Visualizing branches
+    * IntelliJ
+    * Git-gui
+    * Sourcetree
 * What is a branch?
     * We already use branches: main, and the release branch
+    * What a branch is physically
+    * What a branch is with respect to your actual work
 * Branch basics
     * How to make a new branch
     * How to switch between branches
@@ -28,6 +35,8 @@
 
 * All about Merge Requests
     * What are they good for?
+
+* Do I want to talk about detached heads?
 
 ## Things Specifically _Not_ to Cover
 
