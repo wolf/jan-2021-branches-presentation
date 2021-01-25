@@ -32,6 +32,8 @@
 * When not to use a branch
 * Local-only branches
 * Branches you push up to the server
+* Long-term shared branches
+* Pulling and pushing branches other than main
 
 * All about Merge Requests
     * What are they good for?
