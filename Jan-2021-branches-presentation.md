@@ -36,10 +36,17 @@
 * All about Merge Requests
     * What are they good for?
 
+* Things IntelliJ does for you
+    * you can just start typing in the branch menu (any branch menu)
+        * and you can start typing into the menu that pops up _out_ of a branch, too
+    * Saves and restores your workspace when you switch branches
+
 * Do I want to talk about detached heads?
 
 ## Things Specifically _Not_ to Cover
 
 * Interactive rebase
+
+狼
 
 <!-- vim: set ts=4 sw=4 tw=0 et ai :-->
