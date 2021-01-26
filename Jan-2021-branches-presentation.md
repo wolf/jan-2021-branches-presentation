@@ -1,6 +1,19 @@
+## What do I want people to come away with?
+
+
+## What is the most important thing I can teach them?
+
+
+## What are the major pitfalls that will really screw them up?
+
+
+## What are the key benefits that will really make them happy?
+
+
 ## Points to Cover
 
 * Separation of concerns: good in your code, good in your coding
+    * branches help separate your coding according to different concerns
 * Visualizing branches
     * IntelliJ
     * Git-gui
