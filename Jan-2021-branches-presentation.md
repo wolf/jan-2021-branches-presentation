@@ -1,13 +1,20 @@
 ## What do I want people to come away with?
 
 
-## What is the most important thing I can teach them?
+## What are the most important things I can teach them?
+
+* Branches are fast and easy
+* Branches let you solve multiple problems.  Your work on each problem is totally independent.
+* Commit often.  Commit before switching (unless you are explicitly trying to take your changes with you to the new branch).
 
 
-## What are the major pitfalls that will really screw them up?
+## What are the major pitfalls that could really screw them up?
 
 
-## What are the key benefits that will really make them happy?
+## What are the key benefits that could really make them happy?
+
+* Scenarios you are in today where branches could have helped.
+    * You have commits you want to push, and others that are not ready.  People come to me often with this situation.
 
 
 ## Points to Cover
@@ -55,8 +62,14 @@
     * you can just start typing in the branch menu (any branch menu)
         * and you can start typing into the menu that pops up _out_ of a branch, too
     * Saves and restores your workspace when you switch branches
+* Things GitLab does for you
 
 * Do I want to talk about detached heads?
+
+## Resources you may find helpful
+
+* Pro Git: [Git Branching](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
+
 
 ## Things Specifically _Not_ to Cover
 
