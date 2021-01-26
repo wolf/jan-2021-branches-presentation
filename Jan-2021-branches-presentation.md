@@ -1,5 +1,13 @@
 # Using Branches in Git
 
+(Separation of concerns: good in your code, good in your coding.)
+
+
+## Why am I talking about branches?
+
+* Because they can make your work faster and easier.
+
+
 ## What do I want you to come away with?
 
 * The desire to use branches, and enough knowledge to benefit from them.
@@ -7,26 +15,27 @@
 
 ## What are the most important things I can teach you?
 
-* Branches are fast and easy
-* Branches let you solve multiple problems.  Your work on each problem is totally independent.
+* Branching is quick and easy.
+* Branches let you handle multiple problems at once.  Your work on each problem is totally independent.
 * Commit often.  Commit before switching (unless you are explicitly trying to take your changes with you to the new branch).
 * Merge puts your commits onto the target branch.
 * Rebase moves your branch from one place to another but it's still just a branch; you need to merge to get your commits onto the target branch.
 
 
-## What are the major pitfalls that could really screw you up?
-
-* Merge conflicts
-* Your loose changes try to come with you when you switch branches.  Commits stay on the branch you made them on.
-* Rebasing commits upon which other people have based their work
-
-
 ## What are the key benefits that could really make you happy?
 
 * Scenarios you are in today where branches could have helped.
-    * You have commits you want to push, and others that are not ready.  People come to me often with this situation.
+    * You have commits you want to push, and others that are not ready.  People come to me often with this.
     * You had to stash all your changes so you could work on an emergency bug fix.
     * You have a bunch of local changes that you want to save, maybe for a long time.
+    * You're making lots of small commits, but you just want one big fat commit to land on main.
+
+
+## What are the major pitfalls that could really screw you up?
+
+* Merge conflicts
+* Your loose changes try to come with you when you switch branches.  Commits stay on the branch on which they were made.
+* Rebasing commits upon which other people have based their work
 
 
 ## Branching
@@ -37,10 +46,9 @@
 
 ## Merge Requests on GitLab
 
+
 ## Points to Cover
 
-* Separation of concerns: good in your code, good in your coding
-    * branches help separate your coding according to different concerns
 * Visualizing branches
     * IntelliJ
     * Git-gui
@@ -93,11 +101,11 @@
 
 * Do I want to talk about detached heads?
 
-## Resources you may find helpful
+## Resources
 
+* [Learn Git Branching](https://learngitbranching.js.org/)
 * Pro Git: [Git Branching](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
 * Pro Git: [Git Tools - Advanced Merging](https://git-scm.com/book/en/v2/Git-Tools-Advanced-Merging)
-* [Learn Git Branching](https://learngitbranching.js.org/)
 
 
 ## Things Specifically _Not_ to Cover
