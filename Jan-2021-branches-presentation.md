@@ -35,17 +35,27 @@
 ## What are the major pitfalls that could really screw you up?
 
 * Merge conflicts
-* Your loose changes try to come with you when you switch branches.  Commits stay on the branch on which they were made.
+* Your loose (uncommitted) changes try to come with you when you switch branches.  Commits stay on the branch on which they were made.
 * Rebasing commits upon which other people have based their work
 
 
 ## Branching
 
+
 ## Merging
+
 
 ## Rebasing
 
+
 ## Merge Requests on GitLab
+
+
+## Resources
+
+* [Learn Git Branching](https://learngitbranching.js.org/)
+* Pro Git: [Git Branching](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
+* Pro Git: [Git Tools - Advanced Merging](https://git-scm.com/book/en/v2/Git-Tools-Advanced-Merging)
 
 
 ## Points to Cover
@@ -103,11 +113,12 @@
 
 * Do I want to talk about detached heads?
 
-## Resources
 
-* [Learn Git Branching](https://learngitbranching.js.org/)
-* Pro Git: [Git Branching](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
-* Pro Git: [Git Tools - Advanced Merging](https://git-scm.com/book/en/v2/Git-Tools-Advanced-Merging)
+
+
+
+
+
 
 
 ## Things Specifically _Not_ to Cover
