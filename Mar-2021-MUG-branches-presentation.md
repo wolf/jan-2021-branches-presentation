@@ -16,7 +16,7 @@
 
 ## What are the most important things I can teach you?
 
-* Branching is useful quick and easy
+* Branching is useful, quick, and easy
 * Branches let you handle multiple problems at once
 * Commit often.  Commit before merging, rebasing, or switching (unless you are explicitly trying to take your changes with you to another branch)
 * Merge puts your commits _onto_ the target branch
@@ -60,12 +60,12 @@
 ## Resources
 
 * For branching
-    * [Learn Git Branching](https://learngitbranching.js.org/).  This website is *really* good (it's just too bad all the trees are drawn upside-down).  I _strongly_ recommend this website for everyone
+    * [Learn Git Branching](https://learngitbranching.js.org/).  This website is *really* good (it's just too bad all the trees are drawn upside-down).  I _strongly_ recommend this tutorial for everyone
     * Pro Git: [Git Branching](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
     * Pro Git: [Git Tools - Advanced Merging](https://git-scm.com/book/en/v2/Git-Tools-Advanced-Merging)
 * For Git in general
-    * [tig](https://github.com/jonas/tig)
     * [fugitive](https://github.com/tpope/vim-fugitive) is _the_ most popular plugin of any kind for Vim.  It makes Git easy inside Vim.
+    * [tig](https://github.com/jonas/tig)
 
 
 ## Points to Cover
@@ -115,5 +115,15 @@
     * The impact of working on a large team
 
 * Do I want to talk about detached heads? Yes!
+
+
+## Things to do
+
+* Illustrations
+    * swap out LAZ-specific branching image for something from some open-source project
+    * Add illustrations in places where you won't be giving a live demo
+    * Make a PDF for MUG to post
+    * Send Jim the Keynote file
+* Resources: Look around for other resources
 
 <!-- vim: set ts=4 sw=4 tw=0 et ai :-->
