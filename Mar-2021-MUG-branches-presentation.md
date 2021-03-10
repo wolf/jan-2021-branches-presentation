@@ -57,9 +57,7 @@
 
 * What is a branch?
     * Inside Git, a branch is just a pointer to a commit that moves forward when you add new commits
-    * Technically, branches happen whenever a commit has more than one child
     * With respect to your work, a branch is a separate line of development that doesn't interfere with other lines of development
-    * In a graphical view, a branch _looks_ like the name: it sticks out like the branch of a tree
     * Every separate line of development is a branch even if you only have one: your main branch is, in fact, a branch
 * How do branches work inside Git?
 * Git commands to deal with branches
